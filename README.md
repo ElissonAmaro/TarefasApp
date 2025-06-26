@@ -1,5 +1,5 @@
 # TarefasApp
-App de Tarefas
+App Tasks
 
 I created a repository during the live class.
 
