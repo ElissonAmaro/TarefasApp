@@ -1,7 +1,9 @@
 # TarefasApp
 App de Tarefas
 
-Repositório criando durante uma aula ao vivo.
+I created a repository during the live class.
 
-Esta linha fiz diretamente do github. :)
+
+I added this line directly on GitHub. :)
+
 
