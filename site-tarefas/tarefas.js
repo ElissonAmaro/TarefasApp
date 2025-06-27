@@ -7,8 +7,9 @@ const btnInput = document.querySelector('.btn')
 //Quando formulario for enviado  (clicar no botão)
 
 
-form.addEventListener('submit', function(event){
-    event.preventDefault();
+form.addEventListener('click', function(event){
+    
+    
 
 
     const valorDigitado = input.value;
